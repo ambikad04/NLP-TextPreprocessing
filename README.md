@@ -1,6 +1,6 @@
-# 🧠 NLP Text Preprocessing – Foundational Techniques
+# 🧠 NLP Text Preprocessing Techniques
 
-This project demonstrates foundational Natural Language Processing (NLP) techniques for preprocessing textual data. Using Python and the NLTK (Natural Language Toolkit) library, it covers essential steps such as tokenization, punctuation removal, lemmatization, and emoji handling—critical components in building reliable NLP pipelines.
+This project demonstrates Natural Language Processing (NLP) techniques for preprocessing textual data. Using Python and the NLTK (Natural Language Toolkit) library, it covers essential steps such as tokenization, punctuation removal, lemmatization, and emoji handling—critical components in building reliable NLP pipelines.
 
 ---
 
